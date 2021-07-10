@@ -1,4 +1,4 @@
-let columns = parseFloat(prompt('Digita el número de columnas'));
+let columns = parseFloat(prompt('Vamos a construir una matriz. Digita el número de columnas'));
 let rows = parseFloat(prompt('Digita el número de filas'));
 let finalHtml = '';
 let container = document.getElementById('container');
