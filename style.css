@@ -8,9 +8,6 @@ label {
 }
 
 #container {
-  height: 500px;
-  max-width: 90%;
-  width: 580px;
   border: 1px solid salmon;
   float: left;
 }
